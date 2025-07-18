@@ -1,0 +1,34 @@
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.exe
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.deps.json
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.runtimeconfig.json
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ConsoleCards.dll
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.AssemblyReference.cache
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfoInputs.cache
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfo.cs
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CopyComplete
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\refint\ProgrammingAssignment3.dll
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.genruntimeconfig.cache
+C:\Users\damia\Downloads\XPcOyXHLTXeRPBAm6PQGCw_eb0772bf81d6426c94046c98ca50e3f1_3-Windows-Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ref\ProgrammingAssignment3.dll
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.exe
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.deps.json
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.runtimeconfig.json
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ConsoleCards.dll
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.AssemblyReference.cache
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfoInputs.cache
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfo.cs
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\Programm.3764B450.Up2Date
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\refint\ProgrammingAssignment3.dll
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.genruntimeconfig.cache
+C:\Downloads\1 exercise 10\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ref\ProgrammingAssignment3.dll
